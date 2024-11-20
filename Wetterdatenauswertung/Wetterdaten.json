@@ -1,0 +1,40 @@
+{
+  "Staedte": [
+    {
+      "Name": "Berlin",
+      "Temperatur": 15,
+      "Luftfeuchtigkeit": 60,
+      "Windgeschwindigkeit": 10
+    },
+    {
+      "Name": "Paris",
+      "Temperatur": 18,
+      "Luftfeuchtigkeit": 50,
+      "Windgeschwindigkeit": 8
+    },
+    {
+      "Name": "London",
+      "Temperatur": 12,
+      "Luftfeuchtigkeit": 80,
+      "Windgeschwindigkeit": 12
+    },
+    {
+      "Name": "Madrid",
+      "Temperatur": 22,
+      "Luftfeuchtigkeit": 40,
+      "Windgeschwindigkeit": 5
+    },
+    {
+      "Name": "Rheine",
+      "Temperatur": 17,
+      "Luftfeuchtigkeit": 83,
+      "Windgeschwindigkeit": 7
+    },
+    {
+      "Name": "Neuenkirchen",
+      "Temperatur": 21,
+      "Luftfeuchtigkeit": 86,
+      "Windgeschwindigkeit": 6
+    }
+  ]
+}
